@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hello! I am Fauzi. I have passion for AI and Software Engineer using Kotlin Language. I have good experience for time management, project management, and teamwork.
+Hello! I am Fauzi. I have passion for AI and Software Engineering using Kotlin Language. I have good experience for time management, project management, and teamwork.
 
 ![My Visitors](https://komarev.com/ghpvc/?username=fauzisho)
 
