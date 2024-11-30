@@ -6,13 +6,12 @@ Hello! I am Fauzi. I have passion for AI and Software Engineer using Kotlin Lang
 ## 📖 About me
 
 * 💻 I'm a Android Engineer
-* 🎨 I'm a self-taught AI Engineer
+* ⚡ I'm a self-taught Writer
+* 🎓 I'm a AI for Autonomous System student
 * 📱 I'm develop app with native language programming 
-* 🌐 I'm now focus on Kotlin and Kotlin Multi Platform
-  
-<!-- * 🎓 I'm a AI for Autonomous System student
-* 🌐 You can see some of my projects on [my portfolio](https://fauzisho.tech)
- -->
+* 🌐 I'm now focus on Kotlin and Kotlin Multi Platform (KMM)
+* 💬 You can see some of my projects on [my portfolio](https://www.fauzisho.tech/projects)
+
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
