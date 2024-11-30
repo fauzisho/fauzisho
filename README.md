@@ -7,7 +7,7 @@ Hello! I am Fauzi. I have passion for AI and Software Engineer using Kotlin Lang
 
 * 💻 I'm a Android Engineer
 * ⚡ I'm a self-taught Writer
-* 🎓 I'm a AI for Autonomous System student
+* 🎓 I'm a AI for Autonomous System Student [THI](https://www.thi.de/)
 * 📱 I'm develop app with native language programming 
 * 🌐 I'm now focus on Kotlin and Kotlin Multi Platform (KMM)
 * 💬 You can see some of my projects on [my portfolio](https://www.fauzisho.tech/projects)
