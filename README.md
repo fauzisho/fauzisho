@@ -8,7 +8,7 @@ Hello! I am Fauzi. I have passion for AI and Software Engineering using Kotlin L
 * 💻 I'm a Android Engineer
 * 🎓 I'm a AI for Autonomous System Student [THI](https://www.thi.de/)
 * 📱 I'm develop app with native language programming 
-* 🌐 I'm now focus on Kotlin and Kotlin Multi Platform (KMM)
+* 🌐 I'm currently focused on Kotlin and Kotlin Multiplatform (KMM).
 * 💬 You can see some of my projects on [my portfolio](https://www.fauzisho.tech/projects)
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
