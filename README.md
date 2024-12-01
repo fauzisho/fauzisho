@@ -20,13 +20,10 @@ Hello! I am Fauzi. I have passion for AI and Software Engineering using Kotlin L
 ![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=Swift&logoColor=FFA518)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)\
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP&logoColor=FFA518)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=Rust)&nbsp;
+![WebAssembly](https://img.shields.io/badge/-WebAssembly-05122A?style=flat&logo=WebAssembly)&nbsp;
+
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)\
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)
