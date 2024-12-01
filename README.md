@@ -19,6 +19,7 @@ Hello! I am Fauzi. I have passion for AI and Software Engineering using Kotlin L
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=Rust)&nbsp;
+![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=Dart&logoColor=42a7f5)&nbsp;
 ![WebAssembly](https://img.shields.io/badge/-WebAssembly-05122A?style=flat&logo=WebAssembly)&nbsp;
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
