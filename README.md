@@ -10,6 +10,12 @@ Hello! I am Fauzi. I have passion for AI and Software Engineering using Kotlin L
 * 💬 You can see some of my projects on [my portfolio](https://www.fauzisho.tech/projects)
 * 🗣 You can see some of my talks on [tech talk](https://sessionize.com/fauzi-sholichin)
 
+## 📖 2024 - 2025 What's new!
+
+* ✨ CWI Research Semester Programme 2025 Amsterdam, Netherlands.
+* ✨ Conference Speaker [DecompileD 2025](https://decompiled.de/schedule) Dresden, Germany.
+* ✨ 1st Winner [VGI Innovation Challange](https://www.thi.de/hochschule/aktuelles/news/innovative-mobilitaetskonzepte-bei-der-vgi-challenge/), Ingolstadt, Germany.
+  
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
