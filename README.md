@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hello! I am Fauzi. I have passion for AI and Software Engineering using Kotlin Language.
+Salutations! I’m Fauzi, a passionate architect of Artificial Intelligence and Software Engineering, dedicated to pioneering transformative innovations and shaping a smarter, more connected world.
 
 ![My Visitors](https://komarev.com/ghpvc/?username=fauzisho)
 
