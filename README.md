@@ -12,7 +12,7 @@ Salutations! I’m Fauzi, a passionate architect of Artificial Intelligence and 
 
 ## 📖 2024 - 2025 What's new!
 
-* ✨ CWI Research Semester Programme 2025 Amsterdam, Netherlands.
+* ✨ [CWI](https://www.cwi.nl/) Research Semester Programme 2025 Amsterdam, Netherlands.
 * ✨ Conference Speaker [DecompileD 2025](https://decompiled.de/schedule) Dresden, Germany.
 * ✨ 1st Winner [VGI Innovation Challange](https://www.thi.de/hochschule/aktuelles/news/innovative-mobilitaetskonzepte-bei-der-vgi-challenge/), Ingolstadt, Germany.
   
