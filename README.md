@@ -1,5 +1,5 @@
 ### Hi there 👋
-Salutations! I’m Fauzi, a passionate architect of Artificial Intelligence and Software Engineering, dedicated to pioneering transformative innovations and shaping a smarter, more connected world.
+Salutations! I’m Fauzi, a passionate architect of Artificial Intelligence and Software Engineering, dedicated to pioneering transformative innovations more connected world.
 
 ![My Visitors](https://komarev.com/ghpvc/?username=fauzisho)
 
