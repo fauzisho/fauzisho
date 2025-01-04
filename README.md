@@ -1,5 +1,6 @@
 ### Hi there 👋
 Hi! I’m Fauzi, a passionate architect of Artificial Intelligence and Software Engineering.
+
 ![My Visitors](https://komarev.com/ghpvc/?username=fauzisho)
 
 ## 📖 About me
