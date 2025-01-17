@@ -12,6 +12,7 @@ Hi! I’m Fauzi, a passionate architect of Artificial Intelligence and Software 
 
 ## 📖 2024 - 2025 What's new!
 
+* ✨ [OxML](https://www.oxfordml.school/) Oxford Machine Learning Summer School 2025 Oxford, UK.
 * ✨ [CWI](https://www.cwi.nl/) Research Semester Programme 2025 Amsterdam, Netherlands.
 * ✨ Conference Speaker [DecompileD 2025](https://decompiled.de/schedule) Dresden, Germany.
 * ✨ 1st Winner [VGI Innovation Challange](https://www.thi.de/hochschule/aktuelles/news/innovative-mobilitaetskonzepte-bei-der-vgi-challenge/) (€5000), Ingolstadt, Germany.
