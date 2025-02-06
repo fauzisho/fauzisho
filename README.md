@@ -9,7 +9,7 @@ Hi! I’m Fauzi, a passionate architect for Artificial Intelligence and Software
 * 💻 I'm a Android Engineer
 * 🎓 I'm a AI for Autonomous System Student [THI](https://www.thi.de/)
 * 💬 You can see some of my projects on [my portfolio](https://www.fauzisho.tech/projects)
-* 🗣 You can see some of my talks on [tech talk](https://sessionize.com/fauzi-sholichin)
+* 🗣 You can see some of my talks on [tech talk](https://sessionize.com/fauzi-sholichin) and [slides](https://github.com/fauzisho/TechTalk)
 
 ## 📖 2024 - 2025 What's new!
 
