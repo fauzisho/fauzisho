@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi! I’m Fauzi, a passionate architect for Artificial Intelligence and Software Engineering.
+Hi! I’m Fauzi, Artificial Intelligence and Software Engineering Enthusiast.
 
 ![My Visitors](https://komarev.com/ghpvc/?username=fauzisho)
 
@@ -13,7 +13,7 @@ Hi! I’m Fauzi, a passionate architect for Artificial Intelligence and Software
 * 📫 You can see some of my posts on [google scholar](https://scholar.google.com/citations?user=-BaKOagAAAAJ&hl=id) and [medium](https://medium.com/@fauzisho)
 
 ## 📖 2024 - 2025 What's new!
-
+* ✨ [NeuroTUM](https://www.neurotum.com/) Member of AI Ethic, Communications & Operations Team
 * ✨ [OxML](https://www.oxfordml.school/) Scholarship Awards Oxford Machine Learning Summer School 2025 Oxford, UK 🇬🇧
 * ✨ [CWI](https://www.cwi.nl/) Research Semester Programme 2025 Amsterdam, Netherlands 🇳🇱
 * ✨ Conference Speaker [DecompileD 2025](https://decompiled.de/schedule) Dresden, Germany 🇩🇪
