@@ -9,7 +9,7 @@ Hi! I’m Fauzi, Artificial Intelligence and Software Engineering Enthusiast.
 * 💻 I'm a Android Engineer
 * 🎓 I'm a Student AI [THI](https://www.thi.de/)
 * 🗣 You can see some of my talks on [tech talk](https://sessionize.com/fauzi-sholichin) and [slides](https://github.com/fauzisho/TechTalk)
-* 📫 You can see some of my posts on [google scholar](https://scholar.google.com/citations?user=-BaKOagAAAAJ&hl=id) and [medium](https://medium.com/@fauzisho)
+* 📫 You can see some of my posts on [google scholar](https://scholar.google.com/citations?user=-BaKOagAAAAJ&hl=id), [medium](https://medium.com/@fauzisho) and [my notes](https://fauzisho.github.io/notes)
 
 ## 📖 2024 - 2025 What's new!
 * ✨ [NeuroTUM](https://www.neurotum.com/) Member of AI Ethic, Communications & Operations Team
