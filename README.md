@@ -4,20 +4,6 @@ Hi! I’m Fauzi, Artificial Intelligence and Software Engineering Enthusiast.
 
 ![My Visitors](https://komarev.com/ghpvc/?username=fauzisho)
 
-## 📖 About me
-
-* 💻 I'm a Android Engineer
-* 🎓 I'm a Student AI [THI](https://www.thi.de/)
-* 🗣 You can see some of my talks on [tech talk](https://sessionize.com/fauzi-sholichin) and [slides](https://github.com/fauzisho/TechTalk)
-* 📫 You can see some of my posts on [google scholar](https://scholar.google.com/citations?user=-BaKOagAAAAJ&hl=id), [medium](https://medium.com/@fauzisho) and [my notes](https://fauzisho.github.io/notes)
-
-## 📖 2024 - 2025 What's new!
-* ✨ [NeuroTUM](https://www.neurotum.com/) Member of AI Ethic, Communications & Operations Team
-* ✨ [OxML](https://www.oxfordml.school/) Scholarship Awards Oxford Machine Learning Summer School 2025 Oxford, UK 🇬🇧
-* ✨ [CWI](https://www.cwi.nl/) Research Semester Programme 2025 Amsterdam, Netherlands 🇳🇱
-* ✨ Conference Speaker [DecompileD 2025](https://decompiled.de/schedule) Dresden, Germany 🇩🇪
-* ✨ 1st Winner [VGI Innovation Challange](https://www.thi.de/hochschule/aktuelles/news/innovative-mobilitaetskonzepte-bei-der-vgi-challenge/) (€5000), Ingolstadt, Germany 🇩🇪
-  
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
