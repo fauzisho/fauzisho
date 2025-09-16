@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi! I’m Fauzi, Artificial Intelligence and Software Engineering Enthusiast.
+Hi! I’m Fauzi
 
 ![My Visitors](https://komarev.com/ghpvc/?username=fauzisho)
 
