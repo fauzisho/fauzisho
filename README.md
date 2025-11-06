@@ -19,8 +19,8 @@ Hi! I’m Fauzi
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)\
+![Jetbrain IDE](https://img.shields.io/badge/-Jetbrain%20Studio-05122A?style=flat&logo=jedbrain-studio)&nbsp;
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio)&nbsp;
-![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
