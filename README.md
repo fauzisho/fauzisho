@@ -8,7 +8,6 @@ Hi! I’m Fauzi
 
 ### 🛠 &nbsp;Tech Stack
 
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=Kotlin&logoColor=563D7C)&nbsp;
 ![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=Swift&logoColor=FFA518)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python&logoColor=A8B9CC)&nbsp;
