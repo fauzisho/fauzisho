@@ -5,6 +5,7 @@ Hi! I’m Fauzi
 ![My Visitors](https://komarev.com/ghpvc/?username=fauzisho)
 
 ## My Indie Project
+- 𐃶 **[CapyCarry](http://capycarry.com/)** Your all-in-one digital study buddy for mastering subjects and crushing daily goals **(coming soon)**
 - 🧩 **[KotlinStarter](https://kotlinstarter.com/)** Sharing custom UI Compose Components 
 - 🧿 **[MicroCNN](https://crates.io/crates/microcnn)** - A minimal CNN framework in Rust with Quantization
 
