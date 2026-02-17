@@ -6,7 +6,7 @@ Hi! I’m Fauzi
 
 ## Current Indie Project
 - 🧩 **[KotlinStarter](https://kotlinstarter.com/)** Share Custom UI Components for Jetpack Compose Templates.
-- 🧿 **[MicroCNN]()** - A minimal CNN framework in Rust with Quantization
+- 🧿 **[MicroCNN](https://crates.io/crates/microcnn)** - A minimal CNN framework in Rust with Quantization
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
