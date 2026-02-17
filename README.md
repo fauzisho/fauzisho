@@ -4,7 +4,7 @@ Hi! I’m Fauzi
 
 ![My Visitors](https://komarev.com/ghpvc/?username=fauzisho)
 
-## Current Indie Project
+## My Indie Project
 - 🧩 **[KotlinStarter](https://kotlinstarter.com/)** Sharing custom UI Compose Components 
 - 🧿 **[MicroCNN](https://crates.io/crates/microcnn)** - A minimal CNN framework in Rust with Quantization
 
