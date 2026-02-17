@@ -4,6 +4,10 @@ Hi! I’m Fauzi
 
 ![My Visitors](https://komarev.com/ghpvc/?username=fauzisho)
 
+## Current Indie Project
+- 🧩 **[KotlinStarter](https://kotlinstarter.com/)** Share Custom UI Components for Jetpack Compose Templates.
+- 🧿 **[MicroCNN]()** - A minimal CNN framework in Rust with Quantization
+
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
