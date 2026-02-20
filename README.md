@@ -7,7 +7,7 @@ Hi! I’m Fauzi
 ## My Indie Project
 - 𐃶 **[CapyCarry](http://capycarry.com/)** Your all-in-one digital study buddy for mastering subjects and crushing daily goals **(coming soon)**
 - 🧩 **[KotlinStarter](https://kotlinstarter.com/)** Sharing custom UI Compose Components 
-- 🧿 **[MicroCNN](https://crates.io/crates/microcnn)** - A minimal CNN framework in Rust with Quantization
+- 🧿 **[MicroCNN](https://crates.io/crates/microcnn)** - A Minimal CNN Framework Developed in Rust for ESP32
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
