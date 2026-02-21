@@ -6,7 +6,8 @@ Hi! I’m Fauzi
 
 ## My Indie Project
 - 𐃶 **[CapyCarry](http://capycarry.com/)** Your all-in-one digital study buddy for mastering subjects and crushing daily goals **(coming soon)**
-- 🧩 **[KotlinStarter](https://kotlinstarter.com/)** sharing platform of custom UI Compose Components Kotlin ❤️
+- 🧩 **[UIPlug](http://uiplug.com/)** marketplace of production-ready UI components for Kotlin Multiplatform.
+- 🎈 **[KotlinStarter](https://kotlinstarter.com/)** KMP Project template to build multiplatform app faster ❤️
 - 🧿 **[MicroCNN](https://crates.io/crates/microcnn)** - A minimal CNN Framework developed in Rust for ESP32
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
