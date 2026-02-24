@@ -6,7 +6,7 @@ Hi! I’m Fauzi
 
 ## My Indie Project
 - 𐃶 **[CapyCarry](http://capycarry.com/)** Your all-in-one digital study buddy for mastering subjects and crushing daily goals **(coming soon)**
-- 𐃶 **[ObsiRAG](https://github.com/fauzisho/obsirag)** Obsidian Plugin, chat with your entire vault using a sidebar panel.
+- 💎 **[ObsiRAG](https://github.com/fauzisho/obsirag)** Obsidian Plugin, chat with your entire vault using a sidebar panel.
 - 🧩 **[UIPlug](http://uiplug.com/)** production-ready UI components 
 - 🎈 **[KotlinStarter](https://kotlinstarter.com/)** KMP Project template to build multiplatform app faster ❤️
 - 🧿 **[MicroCNN](https://crates.io/crates/microcnn)** - A minimal CNN Framework developed in Rust for ESP32
